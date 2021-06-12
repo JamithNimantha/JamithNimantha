@@ -1,5 +1,5 @@
 ### Hi there, I'm [Jamith!](https://jamith.com) 👋
-
+![](https://komarev.com/ghpvc/?username=JamithNimantha)
 
 <!--
 **JamithNimantha/JamithNimantha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

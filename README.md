@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JamithNimantha)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JamithNimantha&theme=dark)]
 
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=JamithNimantha&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />

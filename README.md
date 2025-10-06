@@ -1,24 +1,22 @@
-### Hi there, I'm [Jamith!](https://jamith.com) 👋
-![](https://komarev.com/ghpvc/?username=JamithNimantha)
+### Hi there, I'm [Jamith!](https://jamith.com) 👋  
+💻 Software Engineer | Full-Stack Developer | Freelancer  
 
-<!--
-**JamithNimantha/JamithNimantha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+I enjoy crafting software that solves real problems - clean, scalable, and built with purpose.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Always learning.  
+⚙️ Always building.  
+🚀 Always improving.  
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JamithNimantha&theme=dark)]
+Curious about what I’m working on?  
+👉 Check out my [projects](https://github.com/JamithNimantha?tab=repositories).  
 
+---
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JamithNimantha&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Anurag's github stats" />
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamithNimantha&layout=compact&theme=material-palenight" />
+📫 Let's connect —  
+[LinkedIn](https://www.linkedin.com/in/jamithnimantha/) • [Website](https://jamith.com) • [Email](mailto:jamithnimantha@gmail.com)  
+
+---
+
+✨ *"Transforming ideas into software — one line of code at a time."*
